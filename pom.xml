@@ -11,6 +11,7 @@
 	<groupId>com.jbk</groupId>
 	<artifactId>Jenkin_Maven__Git</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>Jenkin_Maven__Git</name>
 	<description>Demo project for jenkins</description>
 	<properties>
